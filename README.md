@@ -1,4 +1,4 @@
-#  Excel Data Analysis Practice Repository
+#  Excel Data Analysis Practice
 
 
 This project contains multiple Excel datasets used for practicing **data cleaning, transformation, analysis, and reporting techniques** 
