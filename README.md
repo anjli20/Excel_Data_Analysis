@@ -7,7 +7,6 @@ in Excel.
 Each Excel file starts with a **raw dataset** and demonstrates various operations performed to convert the data into meaningful 
 and usable insights.
 
-##  Repository Contents
 
 The repository includes multiple Excel workbooks covering:
 
