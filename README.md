@@ -18,3 +18,15 @@ The repository includes multiple Excel workbooks covering:
 * Basic analytics
 * Dashboard-style summaries
 * Excel formulas and functions
+
+## 📊 Datasets Used
+
+| File | Dataset | Description |
+|------|---------|--------------|
+| Data_Analysis_01 | Gym Equipment Sales | Monthly profit by category, supplier, and brand (2018 onward) |
+| Data_Analysis_02 | Car Specifications | Make, model, price, body style, horsepower, fuel economy |
+| Data_Analysis_03 | Client Revenue & Profit | Revenue, profit, and payment method by client and department |
+| Data_Analysis_04 | Employee Records (Dirty Data) | Employee ID, department, salary, start date — used for data cleaning practice |
+| Data_Analysis_05 | Financial Sample | Product sales by segment/country with COGS, discounts, and profit |
+| Data_Analysis_06 | US Presidents & Party Data | President, party affiliation, VP, prior role, and salary — intentionally messy for cleaning practice |
+| Data_Analysis_07 | Customer Purchases | Age, gender, marital status, purchase date/amount, location — intentionally messy |
